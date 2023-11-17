@@ -9,3 +9,4 @@ pandas_datareader
 yfinance
 datetime
 timedelta
+protobuf==3.20.*
